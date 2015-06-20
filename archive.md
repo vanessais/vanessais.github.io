@@ -1,6 +1,7 @@
 ---
 layout: page
 title: archive
+header-img: "img/rome.jpg"
 ---
 
 ## Posts
