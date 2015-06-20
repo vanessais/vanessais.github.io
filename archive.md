@@ -2,7 +2,6 @@
 layout: page
 title: archive
 header-img: "img/rome.jpg"
-permalink: pretty
 ---
 
 ## Posts
