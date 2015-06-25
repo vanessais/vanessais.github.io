@@ -15,7 +15,7 @@ There's been a lot of talk about the tech bubble lately. What it means, how it a
 
 <p>First, a little tech bubble etymology. The term "unicorn" was first coined by Aileen Lee in 2013 to describe "U.S.-based software companies started since 2003 and valued at over $1 billion by public or private market investors." Which meant, at the time, software companies less than a decade old that were worth a lot of money. Since this, the term has expanded, but is still widely used to describe tech companies with billion-dollar-plus valuations. </p>
 
-<p>At Aileen's time, there were 39 unicorns. Today, there are <strong>more than a hundred</strong> companies that meet "unicorn" criteria, so it's little surprise people are making the argument of the "zebra"&emdash;exotic, but not rare.</p>
+<p>At Aileen's time, there were 39 unicorns. Today, there are <strong>more than a hundred</strong> companies that meet "unicorn" criteria, so it's little surprise people are making the argument of the "zebra"&mdash;exotic, but not rare.</p>
 
 <p>In truth, as <a href="http://a16z.com/2015/06/17/a16z-podcast-the-rise-of-the-quasi-ipo/">Benedict Evans of a16z points out</a>, this time it's different, but it's always different. Yes, tech is different now. Tech investors and tech companies are different now, and even though the way everyone's currently behaving parts with tradition, that doesn't mean that history's repeating itself. The market today, after all, is a completely different ecosystem from what it was a decade and a half ago.</p>
 
@@ -51,4 +51,4 @@ There's been a lot of talk about the tech bubble lately. What it means, how it a
 
 <p>Dear Friends. If you're raising money, raise more and do it soon, but focus on profits. User acquisition is the name of the game right now, and it's king of the non-GAAP figures. Turn a profit, do it quick.</p>
 
-<p>This ideology of "awesome UI/UX leads to big userbase leads to massive valuation and millions and billions of dollars leads to conquering Earth" will likely soon lean back down to focus on traditional, money-generating companies&emdash;because after all, regardless of what's going on in our tech hubs, the market and the guys with the money are still pretty traditional.</p>	
+<p>This ideology of "awesome UI/UX leads to big userbase leads to massive valuation and millions and billions of dollars leads to conquering Earth" will likely soon lean back down to focus on traditional, money-generating companies&mdash;because after all, regardless of what's going on in our tech hubs, the market and the guys with the money are still pretty traditional.</p>	
