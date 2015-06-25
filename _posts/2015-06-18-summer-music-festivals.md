@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer Music Festivals: What They Mean To Me and What They Mean to You"
+title: "Summer Music Festivals: What They Mean To Me &amp; What They Mean To You"
 category: "Millennials"
 image: "img/summer-music-festivals.jpg"
 ---
