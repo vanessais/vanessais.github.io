@@ -1,0 +1,79 @@
+---
+layout: post
+title: "For Josh"
+author: "Vanessa"
+category: "Uncategorized"
+header-img: "img/forjosh.jpg"
+---
+
+It was morning for me in Sitges, Spain, when I saw the first signs. Morning for me, so very early morning for Florida. It was a picture of one of the old Grooveshark devs, he and a happy, bearded Josh smiling his big, Josh-y smile. The kind where all his teeth show and his eyes crinkle, you know.
+
+I was about to start another day in Sitges, a lazy coastal Spanish town just south of Barcelona. It would be another day of beach and beer and loud Castellano, but today began with a jolt caused by a caption:
+
+<em>R.I.P. Josh Greenberg</em>
+
+A jolt, confusion and a rock in my stomach.
+
+But this isn’t about me. This is about Josh.
+
+<center>&mdash;&mdash;</center>
+
+<em>I’ll always remember the first time I met him, he was introduced to me by my first music startup boss. They were good friends. I’d been nervous.
+
+Josh was a legend in Gainesville, a 26-year-old who in his freshman year decided to build something out of love and fight for it. What I imagined I’d find was a startup-type: witty smart, over-confident and way too busy for the likes of me. Basically, the opposite (in demeanor) of what Josh actually was — goofy, humble, smart as hell, always smiling and just constantly radiating admirability.
+
+He stood surprisingly tall considering the mammoth weight on his shoulders. He was so friendly. He gave us (aka me, since my boss already knew Grooveshark in and out) a tour and introduced us to his team. Prior to that day, I only knew about Josh what any UF student knew about Sam and Josh — something akin to mythical college lore about two Florida kids who built a company, dropped out, grew huge all over the world, got sued and carried on anyway. But right upon meeting him, I knew Josh Greenberg was that and more. He was one of those rare types. He was really rare.</em>
+
+<center>&mdash;&mdash;</center>
+
+Here I stopped. I think the table I’d chosen to write on in the hostel bar’s garden was on top of an antpile, because I felt sugar ants crawling all over me. Were they real ants? Or was my skin just prickling as a result of my fighting the prickling I felt welling up in my eyes?
+
+I took another big swig of my beer, the Barcelona-brewed Estrella Damm. I also grabbed the pack of Camel rollies (a term taught to me by my Welsh friend Samy) and rolled myself a cigarette. Sometimes indulging in self-destructive behavior helps you cope, have you ever noticed that?
+
+I lit my shitty rolled cigarette. Took a drag. More beer. Back to it.
+
+<center>&mdash;&mdash;</center>
+
+<em>The second time I met him he didn’t remember me. It was a talk at UF, he was speaking at the Entrepreneurship Club. Afterward I approached him, re-introduced myself and told him I’d love to join his team at Grooveshark. He was more than receptive; one week later I had an interview with the International team and two weeks later I had a desk at the office. I’m no dev so I didn’t work under Josh. But he would always say hi and ask about what we were up to in our corner of the office. And no matter what, he was always there to help answer any question or address any concern. He was never annoyed, and even when he was stressed (and he always had something to be stressed about), he had a smile to share. Not a fake one, either, but the genuine, toothy kind.
+
+It was at Grooveshark that I got to know Josh, because I started hanging out with the entire team. I remember once when Cherub was in town, GS had hosted them at a private acoustic show so the entire team was at their concert that night. It was Josh’s birthday. I bought him two birthday shots of tequila, his choice, and he was so happy he hugged me and I swear my heart grew three sizes. He just radiated life, Josh did.
+
+About nine months later, I’d left Grooveshark and was thinking about starting my own music startup.
+
+I told Josh, whose first words were, “Uh oh.” I naively asked him to sign an NDA for me. He laughed and reminded me that he works for a music company, he can’t sign an NDA. I was embarassed but decided that fuck it, if I can’t trust Josh who the hell can I trust?
+
+He was great. He told me everything he’d do different, how he’d tweak my business model, consumer behavior, competitor trends, what he’d do if he were me. I walked away from our hour-long conversation with my head spinning. Josh was so great.</em>
+
+<center>&mdash;&mdash;</center>
+
+It was lunch time for me in Sitges (at 5 p.m. Spain time, because you know the Spanish do everything late), so it was well into the morning back home. More things started cropping up — R.I.P. Josh Greenberg. That’s when I knew something was very wrong.
+
+I picked up the phone.
+
+<center>&mdash;&mdash;</center>
+
+<em>I saw Josh a few more times after that.
+
+He got me into Grooveshark’s last holiday party. He would always indugle me when I wanted to catch up, be brutally honest about how things at Grooveshark were, no holds barred. He would ask how I’m doing, what I’m up to. I’d tell him. He would always have streams of his golden advice to give.
+
+Most recently, I wrote to Josh when I heard Grooveshark had shut down. He responded. He was okay — he was relieved. He had more projects on the horizon, and everything was going to be fine. I too was relieved. As long as Josh would carry on in Gainesville, the small town where he’d made his name would be alright.</em>
+
+<center>&mdash;&mdash;</center>
+
+I’d been at the beach, and had just returned to my room when I’d seen a good ex-Grooveshark friend of mine had called. It’s funny, at the beach, there had been some clouds rolling into the sea from the mountains Sitges is built on. The dark, tall types of clouds, the kind I hadn’t seen once since arriving in Spain. I knew it wouldn’t rain — it never rains here in summer. But they were there, like mirrors for the rock in the bottom of my stomach. It was the darkest I’d seen Sitges.
+
+My friend was sad on the other end of the phone. Or maybe sad’s not the word, but … melancholy, empty. I knew the rest of Gainesville, and the entire worldwide Grooveshark family, was probably feeling the same. Like the world’s a bit dimmer, and it will be a while until the sun remembers how to shine so bright.
+
+My friend told me what he knew, which wasn’t much at all. He told me there would probably be a memorial service. I promised that if I was back Stateside in time, I’d be there.
+
+<center>&mdash;&mdash;</center>
+
+I didn’t even know Josh that well. We were friends, but we weren’t particularly close. And even so, Josh Greenberg left a significant mark on my life. He is, easily, one of the greatest people I will ever meet.
+
+And like me, casual friends and acquaintances, I know there are many more. Many more whose lives have been touched — illuminated — by Josh.
+
+Sam may have been the fire that kept Grooveshark going, but Josh was the light that made the journey a memorable one. I hope everyone’s okay. Sam, Abby, and all the Sharks, I hope you’re all okay.
+
+Josh was a light. I’m saddened by his passing, but I know my life has been made better by him. And in that, I’m far from alone.
+
+<strong>We’ll never forget you, Josh.</strong>
