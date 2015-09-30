@@ -54,7 +54,7 @@ With lower barriers to entry and an economy that's so virgin compared to the res
 
 I agree with Nelson. There's no way that the U.S. will allow such a giant goody to exist under its nose without doing something about it, aka taking about 90% advantage of it. 
 
-Is this a retrocede to the '50s, when Batista's Cuba was a playground for Americans? When we'd come, fuck, play, and do with Cuba what we pleased?
+Is this a retrocede to the '50s, when Batista's Cuba was a playground for Americans? When we'd do with Cuba what we pleased?
 
 Maybe. But for now, as far as I'm concerned (and remember, I've got family there that I've been observing throuugh Facebook for the past XX months), Cubans are much too preoccupied with new technologies to care.
 
